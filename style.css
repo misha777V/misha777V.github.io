@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+    background: url("img/1194989365666493578pattern-dots-square-grid-01.svg.med (2) (2) (2) (1).png");
+    font-family: Tahoma;
+    line-height: 1.5;
+}
+
+.card {
+  width: 400px;
+  margin: 30px auto;
+  background-color: #fff;
+  box-shadow: 0 5px 10px #ccc;
+  border-radius: 10px;
+  padding: 20px
+}
+
+.card-photo {
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  border-radius: 50%
+}
+
+.card-title {
+  font-size: 20px;
+  text-align: center;
+}
